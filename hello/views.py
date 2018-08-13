@@ -12,7 +12,7 @@ def index(request):
     if q :
         data = sentiment(q)
         # print(data)
-        return JsonResponse(data)
+        return JsonResponse(data, safe=False)
     else:
         return HttpResponse("Request param expected.")
 
