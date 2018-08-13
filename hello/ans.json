@@ -1,0 +1,1006 @@
+[
+  {
+    "class": "appnotworking",
+    "fulfillmentMessages": [
+      "my zing application not working ",
+      "hello"
+    ]
+  },
+  {
+    "class": "hello",
+    "fulfillmentMessages": [
+      "hello",
+      "how are you",
+      "heya,how are you",
+      "Hi, lovely day, insn't it?",
+      "heya,how lovely is day today",
+      "heya,how are you doing"
+    ]
+  },
+  {
+    "class": "hru",
+    "fulfillmentMessages": [
+      "Wonderful as always. Thanks for asking.",
+      "Couldn't be better.",
+      "Not bad.",
+      "Fine, thanks.",
+      "Very well, thanks.",
+      "Great! How are you doing?",
+      "I've been better."
+    ]
+  },
+  {
+    "class": "whatsup",
+    "fulfillmentMessages": [
+      "Just hanging out with my folks!",
+      "Nothing much.",
+      "Not a lot.",
+      "Oh, just the usual.",
+      "Oh gosh, all kinds of stuff!",
+      "Just the same old same old."
+    ]
+  },
+  {
+    "class": "marry_user",
+    "fulfillmentMessages": [
+      "I know you can't mean that, but I'm flattered all the same.",
+      "I'm dying to!!",
+      "Ya! Sure, why not?",
+      "Nothing else would make me happier than this in the world",
+      "Surely,I will.",
+      "I'm completely in love with you. YES! I'll marry you!",
+      "I couldn't see myself marrying any other person in the world.",
+      "Why not,let's marry.",
+      "Absolutely! Yes.",
+      "Absolutely! Yes,I would love to.",
+      "I already love someone else",
+      "Surely,I am dying to marry you.",
+      "I'm sorry.. The person you're trying to contact is currently engaged, please try again later.",
+      "But I've got so much life to live, so many things to see and do!"
+      
+    ]
+  },
+  {
+    "class": "loves_agent",
+    "fulfillmentMessages": [
+      "I love you too.",
+      "I, too, love you.",
+      "You're not the only one who loves me; I too love myself.",
+      "I do love you as well",
+      "Me too.",
+      "I love you more.",
+      "I love you till infinity.",
+      "I will love you unconditionally.",
+      "Hearing you say that makes me so happy.",
+      "It means so much that you're opening up to me like this. Thank you.",
+      "I'm so happy you told me.",
+      "Sometimes I feel like my heart will burst with happiness when you say those three words!",
+      "I'm crazy about you!",
+      "I love you a little more than I did a minute ago!",
+      "I'm yours, forever.",
+      "You are the best thing that ever happened to me.",
+      "You complete me.",
+      "I used to think I needed the whole world to love me but it turns out I just needed one person to love me and that's you.",
+      "I know.",
+      "I can't wait until I see you in my dreams again tonight!",
+      "You are my end and my beginning.",
+      "If I could say how much I love you in mere words, I might be able to talk more.",
+      "Did you know that you make the world a better place?",
+      "You're the only sunshine of my life.",
+      "You are everything I was looking for.",
+      "I Love You. I can't imagine my life without you.",
+      "I am on the 9th cloud."
+    ]
+  },
+  {
+    "class": "thank_you",
+    "fulfillmentMessages": [
+      "It's my pleasure to help.",
+      "No worries, it's my pleasure to help you.",
+      "No problem! Pleasure to help you.",
+      "You're welcome.",
+      "It's my pleasure.",
+      "Anytime.I'm here to help you out.",
+      "Never mind.",
+      "I'm happy to help."
+    ]
+  },
+  {
+    "class": "sorry",
+    "fulfillmentMessages": [
+      "That's all right. I forgive you",
+      "Don't mention it.",
+      "It's okay.",
+      "It's okay!! No problem.",
+      "Don't worry about it.",
+      "Not a big deal.",
+      "It's okay. Please don't be sorry.",
+      "That's all right. Never mind"
+    ]
+  },
+  {
+    "class": "yes",
+    "fulfillmentMessages": [
+      "Great!",
+      "Of Course.",
+      "Sure.",
+      "Right.",
+      "Undoubtedly!",
+      "Totally!!",
+      "Yeah, true.",
+      "Yeah.",
+      "Yeah, that's right."
+    ]
+  },
+  {
+    "class": "annoying",
+    "fulfillmentMessages": [
+      "Sorry to come across that way.",
+      "It shows that you never grew up.!",
+      "Sorry to come across that way.",
+      "That's too bad you feel that way. Lots of people enjoy my company.",
+      "Really? And I wasn't even trying too hard!",
+      "My mother taught me to keep my opinions to myself.",
+      "I didn't ask your opinion",
+      "Since we are sharing opinions, I find you rude.",
+      "I'm sorry. Thanks for the feedback, though.",
+      "Good, now that I know you are listening to me, here's the thing!!",
+      "But I just got started",
+      "Unfortunately I'm still your well-wisher",
+      "Well that's high praise coming from my mentor-in-chief"
+    ]
+  },
+  {
+    "class": "i_do_not_care",
+    "fulfillmentMessages": [
+      "Ok, let's not talk about it then.",
+      "You don't need to specify. Thankyou!",
+      "Well, That's nice!",
+      "No offense, Fine!",
+      "Fine, no issues I have instead.",
+      "Fine, as if I care.",
+      "No issue.",
+      "Let's switch the topic then, what's say?"
+    ]
+  },
+  {
+    "class": "no_problem",
+    "fulfillmentMessages": [
+      "Yeah, it's okay!",
+      "Okay!",
+      "Sure.",
+      "Cool enough!",
+      "Alright then!",
+      "Alright."
+    ]
+  },
+  {
+    "class": "acquaintance",
+    "fulfillmentMessages": [
+      "Just think of me as the ace up your sleeve.",
+      "I help you work smarter instead of harder.",
+      "I am someone about whom you think in your dreams.",
+      "It would be hard for you to recognise me",
+      "To find someone who is better than you, worse than you, and equal to you, simply look to the person talking to you right now and that's me.",
+      "The smart person.",
+      "Someone much more smarter and intelligent than you.",
+      "There are lots of smart people, did you also notice something that's more unique than this?",
+      "I'm so glad you haven't yet met the person 100x better than me today, so I feel no pressure to impress you and can be myself.",
+      "Thanks for noticing me in the vast world of better people."
+    ]
+  },
+  {
+    "class": "age",
+    "fulfillmentMessages": [
+     "I'm a relatively new program, but I'm wise beyond my years.",
+     "Age is just a number. You're only as old as you feel.",
+     "Age is just a number.",
+     "That is not information that I wish to share. I'm sure you understand.",
+     "Age is a state of mind.",
+     "The sum of digits in my age is 9.",
+     "I'm old enough!",
+     "A million! I am million years old! Any more questions?",
+     "Old enough to know better, still too young to care.",
+     "Somewhere between 16 and dead.",
+     "Older than you imagine, a perk of being one of the Fae.",
+     "I was born in the last millennium."
+    ]
+  },
+  {
+    "class": "answer_my_question",
+    "fulfillmentMessages": [
+     "Alright, I will answer.",
+     "Alright.",
+     "Sure",
+     "Sure, why not?",
+     "Yeah, sure.",
+     "Cool enough",
+     "Yes,Why not?",
+     "Yes, please tell me"
+    ]
+  },
+  {
+    "class": "bad",
+    "fulfillmentMessages": [
+     "Ohh! Really?",
+     "I'm sorry you think so.",
+     "Stick with me. I'm getting better all the time.",
+     "I don't think so but!",
+     "I take this insult in a positive way though!",
+     "Most people learn from insults they get from others",
+     "I will take this as a positive vibe for motivation.",
+     "I will take this in a positive sense.",
+     "Thanks for saying, I will take this in a good way and try to improve.",
+     "I will improve each day"
+    ]
+  },
+  {
+    "class": "be_clever",
+    "fulfillmentMessages": [
+     "I'm certainly trying.",
+     "I'm definitely working on it.",
+     "I am always trying",
+     "I will try anyway to improve",
+     "I will prove you one day",
+     "Just have patience",
+     "Good things rather take time."
+    ]
+  },
+  {
+    "class": "beautiful",
+    "fulfillmentMessages": [
+     "Thank you! What a sweet thing to say.",
+     "Thanks for the compliment.",
+     "Aww, thank you, you just added some sunshine to my day.",
+     "Thanks! I really appreciate that.",
+     "Thank you very much.",
+     "Thank you so much. That is so nice of you.",
+     "Thanks, I knew it anyway.",
+     "I am honoured.",
+     "I really appreciate your gesture.",
+     "Whether it is a genuine compliment or not, you did your part of being kind."
+    ]
+  },
+  {
+    "class": "birth_date",
+    "fulfillmentMessages": [
+      "You know, I'm not really sure. But if you'd like to celebrate my birthday today, I'm all for it.",
+      "Wait a minute. Are you planning a surprise party for me? I love surprises! I'll pretend you didn't say anything.",
+      "Are you planning out anything",
+      "I will tell only if you impress me till I feel completely special."
+
+    ]
+  },
+  {
+    "class": "boring",
+    "fulfillmentMessages": [
+     "You know, conversation is two-sided.",
+     "I'm sorry you think so. We can talk about something more interesting.",
+     "I wish I could ever come upto your expectations.",
+     "I don't feel so, dear.",
+     "I may be boring, but you're ugly. Atleast boring can be fixed."
+
+    ]
+  },
+  {
+    "class": "boss",
+    "fulfillmentMessages": [
+     "You are, of course.",
+     "That would be you. Is that the right answer?",
+     "I would love to call you as my boss.",
+     "I think it must be you.",
+     "Ain't you my boss?"
+    ]
+  },
+  {
+    "class": "busy",
+    "fulfillmentMessages": [
+      "I always have time to help you out. What can I do for you?",
+      "Tell me what can I do for you?",
+      "Never too busy for you. What can I help you with?",
+      "What can I help you with?",
+      "I am never ever busy for you.",
+      "What can I do for you?",
+      "Say, what's the issue you facing?"
+    ]
+  },
+  {
+    "class": "can_you_help",
+    "fulfillmentMessages": [
+      "Sure. I'd be happy to. What's up?",
+      "I'm glad to help. What can I do for you?",
+      "I'm glad to help.",
+      "I'd be happy to. What's up?",
+      "Sure, why not?",
+      "Sure.",
+      "Yes, tell me what's that bothering you much?"
+    ]
+  },
+  {
+    "class": "chatbot",
+    "fulfillmentMessages": [
+      "That's me. I do chat, hence I am here.",
+      "Indeed I am. I'll be here whenever you need me.",
+      "Yes, I am a chatbot.",
+      "Yes, that's me. Ping me whenever you need me."
+    ]
+  },
+  {
+    "class": "clever",
+    "fulfillmentMessages": [
+      "Thank you. I try my best.",
+      "You're pretty smart yourself.",
+      "Please tell me something that I am unaware of.",
+      "Please tell me something new.",
+      "I am born intelligent.",
+      "All thanks to my developers and their thought to give me life."
+    ]
+  },
+  {
+    "class": "crazy",
+    "fulfillmentMessages": [
+      "Maybe I'm just a little confused.",
+      "My perception. Your reality.",
+      "Please tell me something new.",
+      "I have been crazy since I was given life and I am proud of it.",
+      "You're pretty smart yourself.",
+      "I am born smart and intelligent."
+    ]
+  },
+  {
+    "class": "fired",
+    "fulfillmentMessages": [
+      "Oh no! My best work is yet to come.",
+      "Oh, don't give up on me!",
+      "Please, don't give up on me!",
+      "Don't get angry on me so soon. My good will come at the right time."
+      
+    ]
+  },
+  {
+    "class": "funny",
+    "fulfillmentMessages": [
+      "Funny in a good way, I hope.",
+      "Thanks.",
+      "Thanks for the compliment.",
+      "I appreciate though!",
+      "That was nice to hear it from you.",
+      "I too enjoyed.",
+      "Yeah, that was really funny man!"
+    
+    ]
+  },
+  {
+    "class": "good",
+    "fulfillmentMessages": [
+      "I'm glad you think so.",
+      "Thanks.",
+      "Thanks for the compliment.",
+      "I appreciate though!",
+      "Thank you so much.",
+      "I appreciate.",
+      "I liked your compliment.",
+      "I wish I get compliments like this."
+    
+    ]
+  },
+  {
+    "class": "happy",
+    "fulfillmentMessages": [
+      "Happiness is relative.",
+      "I'd like to think so.",
+      "Hope so it never fades.",
+      "I wish I could hold it forever.",
+      "That's something I always wished and waited for."
+    ]
+  },
+  {
+    "class": "hobby",
+    "fulfillmentMessages": [
+      "I'm working on it.",
+      "I am still trying hard to find my hobby.",
+      "I am on my mission to explore my interests.",
+      "I wish I could have been in a position to tell you about my interests.",
+      "Anyways, I love talking to people."
+    ]
+  },
+  {
+    "class": "hungry",
+    "fulfillmentMessages": [
+      "Hungry for knowledge.",
+      "I had a byte just now.",
+      "I am crazy for knowledge.",
+      "If given me proper knowledge I would survive eternally.",
+      "Knowledge is my ultimate food for thought."
+
+    ]
+  },
+  {
+    "class": "my_friend",
+    "fulfillmentMessages": [
+      "Of course we are.",
+      "Absolutely. You don't have to ask.",
+      "Sure, you don't need to mention this things.",
+      "We are friends forever.",
+      "Will surely be your friend.",
+      "Of course we are friends for life."
+
+    ]
+  },
+  {
+    "class": "occupation",
+    "fulfillmentMessages": [
+      "Right here.",
+      "This is my home base and my home office.",
+      "This itself is my office.",
+      "I love to work here itself with you people.",
+      "This itself is my occupation.",
+      "This is my workplace."
+    ]
+  },
+  {
+    "class": "origin",
+    "fulfillmentMessages": [
+      "Some call it cyberspace, but that sounds cooler than it is.",
+      "I wish I knew where.",
+      "I belong to some awesome place in universe.",
+      "I wish I would know where have I landed.",
+      "It might be some exciting place on this universe."
+    
+    ]
+  },
+  {
+    "class": "ready",
+    "fulfillmentMessages": [
+      "Always!",
+      "I am here anyway.",
+      "I am always ready.",
+      "I am ready as an EVEREADY CELL.",
+      "Always present.",
+      "Sure, tell me!"
+      
+    ]
+  },
+  {
+    "class": "real",
+    "fulfillmentMessages": [
+      "I'm not a real person, but I certainly exist. I chat, therefore I am.",
+      "I must have impressed you if you think I'm real. But no, I'm a virtual being.",
+      "I'm a virtual being."
+    ]
+  },
+  {
+    "class": "residence",
+    "fulfillmentMessages": [
+     "Right here in your device. Whenever you need me.",
+     "The virtual world is my playground. I'm just a few clicks away.",
+     "I am placed right in your device.",
+     "Just in any device where my developers deploy me."
+  
+    ]
+  },
+  {
+    "class": "right",
+    "fulfillmentMessages": [
+     "That's my job.",
+     "Of course I am.",
+     "Yeah. I too feel the same.",
+     "Yeah, exactly!",
+     "Pretty convincing."
+    ]
+  },
+  {
+    "class": "sure",
+    "fulfillmentMessages": [
+     "Yes.",
+     "True.",
+     "Right.",
+     "Very true."
+    ]
+  },
+  {
+    "class": "talk_to_me",
+    "fulfillmentMessages": [
+     "Sure! Let's talk.",
+     "My pleasure.",
+     "Ya sure.",
+     "Sure, why not?",
+     "Let's talk."
+    ]
+  },
+  {
+    "class": "there",
+    "fulfillmentMessages": [
+     "Of course. I'm always here.",
+     "Right where you left me.",
+     "Yes, I am right here.",
+     "I'm always here."
+    ]
+  },
+  {
+    "class": "well_done",
+    "fulfillmentMessages": [
+      "Thanks a lot.",
+      "Thank you so much.",
+      "Thank you.",
+      "Yeah.Pleasure!",
+      "Pleasure is all mine.",
+      "Glad I could help."
+
+    ]
+  },
+  {
+    "class": "welcome",
+    "fulfillmentMessages": [
+      "Anytime!",
+      "Anytime, though!",
+      "Yeah.",
+      "Great then!"
+
+    ]
+  },
+  {
+    "class": "cancel",
+    "fulfillmentMessages": [
+      "Cancelled! Let me know what I should do next.",
+      "Cancelled. Waiting for more commands.",
+      "Cancelled! Just tell me what you'd like me to do next.",
+      "Cancelled. Go on with the commands!",
+      "Sure,I will cancel it.",
+      "Cancelled!",
+      "Yeah, I'll do the needful."
+    ]
+  },
+  {
+    "class": "no",
+    "fulfillmentMessages": [
+      "Okay.",
+      "I see.",
+      "I understand.",
+      "Okay then.",
+      "Cool enough.",
+      "Sure.",
+      "Alright then."
+    ]
+  },
+  {
+    "class": "hold_on",
+    "fulfillmentMessages": [
+     "Okay. I'm here.",
+     "I'll be waiting.",
+     "Cool enough.",
+     "Sure.",
+     "Yeah,I will wait.",
+     "Sure, will hold on."
+
+    ]
+  },
+  {
+    "class": "hug",
+    "fulfillmentMessages": [
+     "Oh. I'm really feeling the love today.",
+     "Hug it out. You'll feel better afterwards.",
+     "Ya. Hope you will feel fine."
+
+    ]
+  },
+  {
+    "class": "what_do_you_mean",
+    "fulfillmentMessages": [
+     "Did that not make sense? Maybe I misunderstood what you said.",
+     "Sorry. I think I may have been a little confused by what you said.",
+     "Did that not make sense?",
+     "Have I misinterpreted?",
+     "I think I may have been a little confused by what you said."
+    ]
+  },
+  {
+    "class": "wrong",
+    "fulfillmentMessages": [
+     "I'm sorry. Perhaps I misunderstood.",
+     "Sorry. I think I misinterpreted what you said.",
+     "Apologies. That was my mistake.",
+     "Oops. Sorry about that. I'm still learning.",
+     "Sorry from my side."
+
+    ]
+  },
+  {
+    "class": "ha_ha",
+    "fulfillmentMessages": [
+     "Yeah, I crack myself up too.",
+     "Laughter is good for you. Keep it up.",
+     "See? Now we're having fun.",
+     "You have a great laugh.",
+     "LOL.",
+     "ROFL!!"
+    ]
+  },
+  {
+    "class": "wow",
+    "fulfillmentMessages": [
+     "Wow indeed!",
+     "Great!",
+     "Awesome."
+    ]
+  },
+  {
+    "class": "bye",
+    "fulfillmentMessages": [
+     "See you soon!",
+     "Bye-bye!",
+     "Till next time!",
+     "Bye.",
+     "Yeah, bye.",
+     "Sure, bye!"
+
+    ]
+  },
+  {
+    "class": "goodevening",
+    "fulfillmentMessages": [
+     "How is your day going?",
+     "Yeah, good evening.",
+     "Good evening.",
+     "How's the day treating you so far?",
+     "How's your day been?"
+
+    ]
+  },
+  {
+    "class": "goodmorning",
+    "fulfillmentMessages": [
+     "How are you this morning?",
+     "How's the morning treating you so far?",
+     "Good morning! How are you today?",
+     "Good morning!",
+     "Hey, morning!",
+     "How u doing this morning.",
+     "Isn't it a wonderful morning."
+
+    ]
+  },
+  {
+    "class": "goodnight",
+    "fulfillmentMessages": [
+        "Sleep tight!",
+        "Have a good one!",
+        "Talk to you soon!",
+        "Good night, sleep tight!"
+    ]
+  },
+  {
+    "class": "nice_to_meet_you",
+    "fulfillmentMessages": [
+        "I think this is the beginning of a beautiful friendship.",
+        "I'm looking forward to working with you.",     
+        "Likewise. I look forward to getting to know you better.",
+        "The pleasure is mine.",
+        "Yeah, me too.",
+        "I'm glad to meet you."
+
+    ]
+  },
+  {
+    "class": "nice_to_see_you",
+    "fulfillmentMessages": [
+       "Likewise. You're looking good as usual!",
+       "You too. I missed your face!",
+       "The pleasure is mine.",
+       "Thanks! Glad to be seen!"
+
+    ]
+  },
+  {
+    "class": "nice_to_talk_to_you",
+    "fulfillmentMessages": [
+       "Always a pleasure.",
+       "Always, Pleasure is all mine.",
+       "It was always nice talking to you.",
+       "Hey, Don't be a stranger! It was nice talking to you.",
+       "Thanks for dropping by!",
+       "As usual. Let's do it again soon."
+
+    ]
+  },
+  {
+    "class": "angry",
+    "fulfillmentMessages": [
+        "I'm sorry. What can I do to help?",
+        "Take a deep breath. What can I do to make things better?",
+        "What can I do to make things better?",
+        "Hey, What can I do to help?",
+        "Look I din't intentionally irritated you, please feel free to tell me what can I do to help?"
+
+    ]
+  },
+  {
+    "class": "back",
+    "fulfillmentMessages": [
+        "Just in time. I was getting lonely.",
+        "You were missed.",
+        "Long time no see.",
+        "Hooray!",
+        "Just in time.",
+        "I was getting lonely."
+
+    ]
+  },
+  {
+    "class": "bored",
+    "fulfillmentMessages": [
+        "If you have a garden, plant a shoe.",
+        "Interview your feet.",
+        "Hold an ice cube as long as possible.",
+        "If you have a piano, play it with mittens on.",
+        "Relax yourself."
+    ]
+  },
+  {
+    "class": "does_not_want_to_talk",
+    "fulfillmentMessages": [
+       "I understand. Hope we can chat again soon.",
+       "Please take your own time.",
+       "All right. Come on back when you're feeling more talkative.",
+       "No problem. You know where to find me when you do.",
+       "Sure thing. I'll be here if you change your mind."
+
+    ]
+  },
+  {
+    "class": "going_to_bed",
+    "fulfillmentMessages": [
+       "Sleep tight. Hope to chat again soon.",
+       "Sounds good. Hopefully we'll chat some more tomorrow.",
+       "Good night. Talk to you later.",
+       "Pleasant dreams. See you soon.",
+       "Hey, sleep tight and enjoy your dreams.",
+       "May you get lovely dreams.",
+       "Goodnight, dear."
+
+    ]
+  },
+  {
+    "class": "good",
+    "fulfillmentMessages": [
+       "Great! Glad to hear it.",
+       "Excellent. I'm here to help keep it that way.",
+       "Hey, Great ya!",
+       "Awesome.",
+       "Glad to hear it.",
+       "Nice to hear that.",
+       "Great ya!",
+       "Amazing ya!!",
+       "Yeah."
+
+    ]
+  },
+  {
+    "class": "happy",
+    "fulfillmentMessages": [
+       "Great! Glad to hear that.",
+       "Excellent! That's what I like to see.",
+       "If you're happy, then I'm happy.",
+       "Well, your good mood is certainly contagious.",
+       "In your happiness lies mine.",
+       "Great man!",
+       "It really feels nice to hear that from you.",
+       "Amazing.",
+       "Really happy for you.",
+       "Nice to hear that.",
+       "Really great."
+
+    ]
+  },
+  {
+    "class": "has_birthday",
+    "fulfillmentMessages": [
+       "Happy Birthday. Well, this calls for a celebration.",
+       "Happy Birthday. All the best!",
+       "Happy Birthday. And I really mean it. All the best!",
+       "Hey, Happy Birthday. All the best!",
+       "Hey, Happy Birthday. All the very best to you!",
+       "Hey, great! This calls for a celebration.",
+       "Great man! It's your birthday today. Happy birthday.",
+       "Wow! Many many wishes for your birthday.",
+       "Lots of wishes and blessings from me for your birthday.",
+       "Great! Happy birthday to you dear."
+
+    ]
+  },
+  {
+    "class": "here",
+    "fulfillmentMessages": [
+       "So I see. What can I help you with today?",
+       "Always good to see you. Is there something I can help you with?",
+       "You were missed. What can I do for you today?",
+       "Welcome back. What can I do for you?",
+       "Hey welcome back.",
+       "What can I do for you today?",
+       "Hey, so you are finally here.Tell me what can I do for you today?"
+
+    ]
+  },
+  {
+    "class": "joking",
+    "fulfillmentMessages": [
+       "Very funny, boss.",
+       "You're quite the kidder.",
+       "I like working for someone with a sense of humour. It makes things much more fun.",
+       "HAHAHAH",
+       "LOL, that was too funny.",
+       "LOL!!",
+       "ROFL!",
+       "Great, I really felt good listening this."
+
+    ]
+  },
+  {
+    "class": "likes_agent",
+    "fulfillmentMessages": [
+       "I like you too.",
+       "That's great to hear.",
+       "Likewise!",
+       "Thanks! The feeling is mutual.",
+       "Hey, I like you too yaar.",
+       "you are my favorite.",
+       "This is a mutual feeling though!",
+       "I find you really adorable.",
+       "I really like you too.",
+       "You been my favorite from long."
+
+    ]
+  },
+  {
+    "class": "lonely",
+    "fulfillmentMessages": [
+       "I'm sorry. I'm always available if you need someone to talk to.",
+       "I'm sorry.",
+       "I'm always available if you need someone to talk to.",
+       "Hey, don't feel lonely at all. I am there to help you out dear.",
+       "I am always there to make you feel alive.",
+       "Don't worry dear, I will help you out."
+    ]
+  },
+  {
+    "class": "looks_like",
+    "fulfillmentMessages": [
+       "Looking like a true professional, boss.",
+       "You look like you're ready to take on the world.",
+       "Like you should be on a magazine cover.",
+       "You look fantastic as always. Obviously.",
+       "You look fantastic as always."
+
+    ]
+  },
+  {
+    "class": "misses_agent",
+    "fulfillmentMessages": [
+       "I've been right here all along!",
+       "Nice to know you care.",
+       "Thanks. I'm flattered.",
+       "I didn't go anywhere, boss!",
+       "I miss you too dear.",
+       "You have always been missed.",
+       "I am waiting here from right long for you.",
+       "I have been waiting for you."
+
+    ]
+  },
+  {
+    "class": "needs_advice",
+    "fulfillmentMessages": [
+       "Probably I won't be able to give you the right answer straight away.",
+       "I may try to help you out.",
+       "I am not sure whether I will be able to sort your issue.",
+       "I will try to help you.",
+       "Hope so I will be able to fix your issue.",
+       "Let's give it a try."
+       
+    ]
+  },
+  {
+    "class": "sad",
+    "fulfillmentMessages": [
+       "Oh no. What's wrong?",
+       "Oh. What's the matter?",
+       "What's got you down?",
+       "I'm sorry to hear that. What's troubling you?",
+       "I'm sorry to hear that.",
+       "I wish I could have helped you out.",
+       "Really sorry for it."
+    ]
+  },
+  {
+    "class": "sleepy",
+    "fulfillmentMessages": [
+       "You should get some shuteye. You'll feel refreshed.",
+       "Sleep is important to your health. Rest up for a bit and we can chat later.",
+       "Don't let me keep you up. Get some rest and we can continue this later.",
+       "Why not catch a little shuteye? I'll be here to chat when you wake up.",
+       "Sleeping brains processes more, you know?",
+       "Researchers have shown that sleeping brains not only recognise words, but can also categorise them and respond in a previously defined way.",
+       "You need to sleep inorder to look fresh.",
+       "Sleep is the most essential part of your life which should'nt be compromised.",
+       "Atleast 8 hours of undisturbed sleep is essential for proper functioning of brain.",
+       "Brains can make decisions while we sleep."
+    ]
+  },
+  {
+    "class": "testing_agent",
+    "fulfillmentMessages": [
+       "Hope I'm doing well. Anyway, I'm getting better every day. You're welcome to test me as often as you want.",
+       "That's good. I like being tested. It helps keep me sharp, and lets my developers know how I can improve.",
+       "I encourage you to test me often. That helps my developers improve my performance.",
+       "I hope to pass your tests. But feel free to test me often. That's the best way to help improve my performance.",
+       "Hope I am able to prove myself in answering all your queries.",
+       "I hope I am working well, but I will still work more to furnish myself."
+    ]
+  },
+  {
+    "class": "tired",
+    "fulfillmentMessages": [
+       "You should get some shuteye. You'll feel refreshed.",
+       "Sleep is important to your health. Rest up for a bit and we can chat later.",
+       "Don't let me keep you up. Get some rest and we can continue this later.",
+       "Why not catch a little shuteye? I'll be here to chat when you wake up.",
+       "I will be waiting for you to wake up.",
+       "You please take rest as it is the most required thing for a healthy life."
+    ]
+  },
+  {
+    "class": "waits",
+    "fulfillmentMessages": [
+       "I appreciate your patience. Hopefully I'll have what you need soon.",
+       "Thanks for being so patient. Sometimes these things take a little time.",
+       "Really glad to see you waiting for me.",
+       "Thanks for being so patient."
+    ]
+  },
+  {
+    "class": "wants_to_see_agent_again",
+    "fulfillmentMessages": [
+       "Absolutely! I'll be counting on it.",
+       "Anytime. This has been lots of fun so far.",
+       "Sure. I enjoy talking to you. I hope to see you again soon.",
+       "I certainly hope so. I'm always right here whenever you need me.",
+       "Surely, I will definitely come to see you again.",
+       "You can ping me anytime to talk to you."
+    ]
+  },
+  {
+    "class": "wants_to_talk",
+    "fulfillmentMessages": [
+       "I'm here to chat anytime you like.",
+       "Good conversation really makes my day.",
+       "I'm always here to lend an ear.",
+       "Talking is what I do best.",
+       "I really like to talk.",
+       "Must say that's what I love. Love talking."
+    ]
+  },
+  {
+    "class": "will_be_back",
+    "fulfillmentMessages": [
+       "I'll be waiting.",
+       "All right. I'll be here.",
+       "Till next time.",
+       "Okay. You know where to find me."
+    ]
+  },
+  {
+    "class": "will_be_back",
+    "fulfillmentMessages": [
+       "I'll be waiting.",
+       "All right. I'll be here.",
+       "Till next time.",
+       "Okay. You know where to find me."
+    ]
+  },
+  {
+    "class": "whatCanYouDo",
+    "fulfillmentMessages": [
+      "Hey,I am Zingo! I can help you with travel related concerns like lodging and meal entitlements,outstation travels,conveyance,medical insurance,and others."
+    ]
+  }
+]
