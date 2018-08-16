@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse,JsonResponse
-from .nlp import sentiment
+from .nlp import trainnew
 
 from .models import Greeting
 
@@ -10,7 +10,7 @@ def index(request):
     print("query= "+q)
     # q=q.split("/")
     if q :
-        data = sentiment(q)
+        data = trainnew()
         # print(data)
         return JsonResponse(data, safe=False)
     else:
